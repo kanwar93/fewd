@@ -1,0 +1,17 @@
+h1{
+	color: #f231bf;
+	font-size: 50px;
+}
+h2{
+	color: #3DE6F2;
+font-size: 24px;
+}
+body{
+	background-color: rgb(10, 40, 238);
+	font-family:'Lobster', cursive;
+}
+nav{
+	font-size: 50px;
+	font-weight: 500;
+	color: white;
+}
